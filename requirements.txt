@@ -1,0 +1,15 @@
+# DSPy and related dependencies
+dspy-ai>=2.4.0
+
+# Optional: Language Model providers (install as needed)
+# openai>=1.0.0  # For OpenAI models
+# anthropic>=0.18.0  # For Claude models
+# transformers>=4.35.0  # For local models
+# torch>=2.0.0  # For local models
+
+# Optional: For retrieval-augmented generation
+# faiss-cpu>=1.7.4  # Vector database
+# sentence-transformers>=2.2.0  # Embeddings
+
+# Development tools
+python-dotenv>=1.0.0  # For managing API keys
